@@ -1,0 +1,6 @@
+{
+  "name": "Kirinda Hospital Management System",
+  "description": "A web-based hospital appointment and management system connecting patients, doctors, receptionists, and administrators with online booking, schedules, and clinical workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
